@@ -42,4 +42,13 @@ psd
 thumb
 sketch
 
+# Python / Flask
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.env
+.env.*
+
 # End of https://www.toptal.com/developers/gitignore/api/react
